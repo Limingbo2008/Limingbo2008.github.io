@@ -29,7 +29,7 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2021年元旦，因为已经放了寒假，于是元旦这天决定给自己放一天假。下午在家闲来无事，突然想起建一个自己的博客（Blog）——是的，不是新浪博客也不是网易博客，一个自己建的博客。</p>
 <p>这个想法已经存在了好久，因为源于一篇文章，链接：<a href="https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng">https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng</a>(最好在微信中复制打开）。但因为种种原因，没能实现，拖到2021年才做。</p>
 <p>我于是就参考这篇文章，做了这个博客。当然，也遇到了不少困难，我多求助于Roy，也就是这篇文章的作者。其次，就是上百度找资料，Roy还给我了关于主题文档的资料，链接：<a href="https://butterfly.js.org/">https://butterfly.js.org</a>(第一次打开是繁体中文，若您不习惯，可以点右下角的齿轮，再点“繁”即可，“+”与“-”可以调节字体大小，“◐”可以切换至夜晚模式,“↑”可以回到顶部。同样，我的这篇“建站小记”也是如此）。</p>
-<p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#108;&#105;&#109;&#105;&#x6e;&#103;&#x62;&#x6f;&#50;&#x30;&#48;&#56;&#48;&#54;&#49;&#x39;&#64;&#115;&#x69;&#x6e;&#x61;&#46;&#x63;&#111;&#x6d;">&#108;&#105;&#109;&#105;&#x6e;&#103;&#x62;&#x6f;&#50;&#x30;&#48;&#56;&#48;&#54;&#49;&#x39;&#64;&#115;&#x69;&#x6e;&#x61;&#46;&#x63;&#111;&#x6d;</a>）与我联系。</p>
+<p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#108;&#105;&#109;&#x69;&#x6e;&#103;&#98;&#111;&#x32;&#x30;&#48;&#x38;&#48;&#x36;&#x31;&#57;&#x40;&#115;&#x69;&#110;&#97;&#46;&#x63;&#x6f;&#109;">&#108;&#105;&#109;&#x69;&#x6e;&#103;&#98;&#111;&#x32;&#x30;&#48;&#x38;&#48;&#x36;&#x31;&#57;&#x40;&#115;&#x69;&#110;&#97;&#46;&#x63;&#x6f;&#109;</a>）与我联系。</p>
 
 <div id="gitalk-container"></div>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
