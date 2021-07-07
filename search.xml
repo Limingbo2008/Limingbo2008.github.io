@@ -96,4 +96,30 @@
         <tag>网址</tag>
       </tags>
   </entry>
+  <entry>
+    <title>自学俄语</title>
+    <url>/2021/07/07/%E8%87%AA%E5%AD%A6%E4%BF%84%E8%AF%AD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>上小学时，家里就有这一套书（这里没拍全）：<br>![俄语书](/upload/russian book.jpg)</p>
+<p>当时只是感到有趣，只是走马观花看了看，并没有认真学。后来，偶然想起这件事，便计划认真学下去。刚刚学了一半语音导论，便不想学了————六本书！知识很系统，这不能否认，但是我只是想把它当做一个爱好，浅浅了解就可以。</p>
+<p>之后就有了在电子设备上学的念头。一开始，我找到的是LearnRussian，网址放在这里： learnrussian.rt.com 。但是发现，竟然没有声音，但是在电脑上尝试时是可以的，原因就是手机不支持Flash了，我费尽周折，得知：</p>
+<p>1 如果用QQ浏览器，可以将英语译为汉语。其他国产浏览器虽然可以翻译，但是不能实时翻译，不方便。但是都不能出声音。使用老一点的浏览器也没有用；</p>
+<p>2 如果用海鹦浏览器，可以出声音，但是翻译不了，第一次使用还需要连接国际互联网，以后使用过程中还不很顺畅。</p>
+<p>因此，我觉得应该换一个。又找了好多，不一一列举了，最后发现了博树，网址： <a href="http://www.busuu.com/zh">www.busuu.com/zh</a> 。如果你想用英语或是其他语言学习，改一下就好。到网站里选择俄语即可。但是我推荐使用博树的软件，图片见封面图。它是付费的，但是也不耽误学，非会员也可以学很多（当然有破解版，可以找找）。</p>
+
+<div id="gitalk-container"></div>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+		<script>
+		var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render("gitalk-container");
+	    </script>]]></content>
+      <categories>
+        <category>经验</category>
+      </categories>
+      <tags>
+        <tag>俄语</tag>
+      </tags>
+  </entry>
 </search>
