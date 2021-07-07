@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/01/01/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-
-<div id="gitalk-container"></div>
-<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-		<script>
-		var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};
-	    gitalkConfig.id = md5(location.pathname);
-		var gitalk = new Gitalk(gitalkConfig);
-	    gitalk.render("gitalk-container");
-	    </script>]]></content>
-  </entry>
-  <entry>
     <title>建站小记</title>
     <url>/2021/01/02/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2021年元旦，因为已经放了寒假，于是元旦这天决定给自己放一天假。下午在家闲来无事，突然想起建一个自己的博客（Blog）——是的，不是新浪博客也不是网易博客，一个自己建的博客。</p>
 <p>这个想法已经存在了好久，因为源于一篇文章，链接：<a href="https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng">https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng</a>(最好在微信中复制打开）。但因为种种原因，没能实现，拖到2021年才做。</p>
 <p>我于是就参考这篇文章，做了这个博客。当然，也遇到了不少困难，我多求助于Roy，也就是这篇文章的作者。其次，就是上百度找资料，Roy还给我了关于主题文档的资料，链接：<a href="https://butterfly.js.org/">https://butterfly.js.org</a>(第一次打开是繁体中文，若您不习惯，可以点右下角的齿轮，再点“繁”即可，“+”与“-”可以调节字体大小，“◐”可以切换至夜晚模式,“↑”可以回到顶部。同样，我的这篇“建站小记”也是如此）。</p>
-<p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#108;&#x69;&#x6d;&#x69;&#110;&#103;&#98;&#x6f;&#x32;&#48;&#48;&#56;&#x30;&#54;&#49;&#57;&#64;&#x73;&#x69;&#x6e;&#97;&#x2e;&#99;&#x6f;&#109;">&#108;&#x69;&#x6d;&#x69;&#110;&#103;&#98;&#x6f;&#x32;&#48;&#48;&#56;&#x30;&#54;&#49;&#57;&#64;&#x73;&#x69;&#x6e;&#97;&#x2e;&#99;&#x6f;&#109;</a>）与我联系。</p>
+<p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#x6c;&#x69;&#109;&#105;&#110;&#x67;&#x62;&#111;&#50;&#x30;&#48;&#x38;&#x30;&#x36;&#x31;&#x39;&#64;&#x73;&#x69;&#110;&#97;&#46;&#99;&#x6f;&#x6d;">&#x6c;&#x69;&#109;&#105;&#110;&#x67;&#x62;&#111;&#50;&#x30;&#48;&#x38;&#x30;&#x36;&#x31;&#x39;&#64;&#x73;&#x69;&#110;&#97;&#46;&#99;&#x6f;&#x6d;</a>）与我联系。</p>
 
 <div id="gitalk-container"></div>
 <script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
@@ -45,28 +22,6 @@
       </categories>
       <tags>
         <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网址推荐</title>
-    <url>/2021/01/03/%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>下面分享一些好用的、有趣的网址。如果您要补充，请评论。</p>
-<p>1、学习强国 <a href="http://www.xuexi.cn/">www.xuexi.cn</a> ；<br>2、钓鱼岛 <a href="http://www.diaoyudao.org.cn/">www.diaoyudao.org.cn</a> ；<br>3、《Science》 <a href="http://www.sciencemag.org/">www.ScienceMag.org</a> ；<br>4、国学大师 <a href="http://www.guoxuedashi.com/">www.guoxuedashi.com</a> ；<br>5、国家基因库 <a href="http://www.cngb.org/">www.cngb.org</a> ；<br>6、中国植物图像库 ppbc.iplant.cn ；<br>7、美丽科学 <a href="http://www.beautyofscience.cn/">www.beautyofscience.cn</a> ；<br>8、中国科普网 <a href="http://www.kepu.com.cn/">www.kepu.com.cn</a> ；<br>9、创客导航 mc.dfrobot.com.cn/links/?from=timeline&amp;isappinstalled=0 ；<br>10、矿石收音机论坛 <a href="http://www.crystalradio.cn/">www.crystalradio.cn</a> ；<br>11、图片托管 postimages.org ；<br>12、在线生成网格打印纸 <a href="http://www.mygraphpaper.com/">www.mygraphpaper.com</a> 与 gridzzly.com ；<br>13、符号大全 m.fhdq.net ；<br>14、国际象棋 <a href="http://www.chess.com/">www.chess.com</a> ；<br>15、纪录片天地 <a href="http://www.jlpcn.net/">www.jlpcn.net</a> ；<br>16、测试显示性能（看卡不卡即可） cznull.github.io/vsbm ；<br>17、在线做各学科实验 phet.colorado.edu/zh_CN/<br>18、电子课本 m.dzkbw.com ；<br>19、图形计算器 <a href="http://www.desmos.com/calculator">www.desmos.com/calculator</a> ；<br>20、小行星轨道模拟器 orbitsimulator.com ；<br>21、测智力 <a href="http://www.wenjuan.com/s/uAbq2e">www.wenjuan.com/s/uAbq2e</a><br>22、地图 m.onegreen.net ；<br>23、地球 <a href="http://www.earth.com/">www.earth.com</a> ；<br>24、世界卫星地图 m.meet99.com/map-world.html ；<br>25、清明上河图 m.sohu.com/c/17652 ；<br>26、网络威胁地图 <a href="http://www.fireeye.com/cyber-map/threat-map.html">www.fireeye.com/cyber-map/threat-map.html</a> 。</p>
-
-<div id="gitalk-container"></div>
-<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-		<script>
-		var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};
-	    gitalkConfig.id = md5(location.pathname);
-		var gitalk = new Gitalk(gitalkConfig);
-	    gitalk.render("gitalk-container");
-	    </script>]]></content>
-      <categories>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>网址</tag>
       </tags>
   </entry>
   <entry>
@@ -97,9 +52,31 @@
       </tags>
   </entry>
   <entry>
+    <title>网址推荐</title>
+    <url>/2021/01/03/%E7%BD%91%E5%9D%80%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>下面分享一些好用的、有趣的网址。如果您要补充，请评论。</p>
+<p>1、学习强国 <a href="http://www.xuexi.cn/">www.xuexi.cn</a> ；<br>2、钓鱼岛 <a href="http://www.diaoyudao.org.cn/">www.diaoyudao.org.cn</a> ；<br>3、《Science》 <a href="http://www.sciencemag.org/">www.ScienceMag.org</a> ；<br>4、国学大师 <a href="http://www.guoxuedashi.com/">www.guoxuedashi.com</a> ；<br>5、国家基因库 <a href="http://www.cngb.org/">www.cngb.org</a> ；<br>6、中国植物图像库 ppbc.iplant.cn ；<br>7、美丽科学 <a href="http://www.beautyofscience.cn/">www.beautyofscience.cn</a> ；<br>8、中国科普网 <a href="http://www.kepu.com.cn/">www.kepu.com.cn</a> ；<br>9、创客导航 mc.dfrobot.com.cn/links/?from=timeline&amp;isappinstalled=0 ；<br>10、矿石收音机论坛 <a href="http://www.crystalradio.cn/">www.crystalradio.cn</a> ；<br>11、图片托管 postimages.org ；<br>12、在线生成网格打印纸 <a href="http://www.mygraphpaper.com/">www.mygraphpaper.com</a> 与 gridzzly.com ；<br>13、符号大全 m.fhdq.net ；<br>14、国际象棋 <a href="http://www.chess.com/">www.chess.com</a> ；<br>15、纪录片天地 <a href="http://www.jlpcn.net/">www.jlpcn.net</a> ；<br>16、测试显示性能（看卡不卡即可） cznull.github.io/vsbm ；<br>17、在线做各学科实验 phet.colorado.edu/zh_CN/<br>18、电子课本 m.dzkbw.com ；<br>19、图形计算器 <a href="http://www.desmos.com/calculator">www.desmos.com/calculator</a> ；<br>20、小行星轨道模拟器 orbitsimulator.com ；<br>21、测智力 <a href="http://www.wenjuan.com/s/uAbq2e">www.wenjuan.com/s/uAbq2e</a><br>22、地图 m.onegreen.net ；<br>23、地球 <a href="http://www.earth.com/">www.earth.com</a> ；<br>24、世界卫星地图 m.meet99.com/map-world.html ；<br>25、清明上河图 m.sohu.com/c/17652 ；<br>26、网络威胁地图 <a href="http://www.fireeye.com/cyber-map/threat-map.html">www.fireeye.com/cyber-map/threat-map.html</a> 。</p>
+
+<div id="gitalk-container"></div>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+		<script>
+		var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render("gitalk-container");
+	    </script>]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>网址</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>自学俄语</title>
     <url>/2021/07/07/%E8%87%AA%E5%AD%A6%E4%BF%84%E8%AF%AD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>上小学时，家里就有这一套书（这里没拍全）：<br><img src="/" class="lazyload" data-src="https://i.postimg.cc/vTb9RB6S/IMG-20210707-231941.jpg"  alt="俄语书"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>上小学时，家里就有这一套书（这里没拍全）：<br> class="lazyload" data-src="https://i.postimg.cc/vTb9RB6S/IMG-20210707-231941.jpg" <img src="/"></p>
 <p>当时只是感到有趣，只是走马观花看了看，并没有认真学。后来，偶然想起这件事，便计划认真学下去。刚刚学了一半语音导论，便不想学了————六本书！知识很系统，这不能否认，但是我只是想把它当做一个爱好，浅浅了解就可以。</p>
 <p>之后就有了在电子设备上学的念头。一开始，我找到的是LearnRussian，网址放在这里： learnrussian.rt.com 。但是发现，竟然没有声音，但是在电脑上尝试时是可以的，原因就是手机不支持Flash了，我费尽周折，得知：</p>
 <p>1 如果用QQ浏览器，可以将英语译为汉语。其他国产浏览器虽然可以翻译，但是不能实时翻译，不方便。但是都不能出声音。使用老一点的浏览器也没有用；</p>
@@ -121,5 +98,28 @@
       <tags>
         <tag>俄语</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/01/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+
+<div id="gitalk-container"></div>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+		<script>
+		var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};
+	    gitalkConfig.id = md5(location.pathname);
+		var gitalk = new Gitalk(gitalkConfig);
+	    gitalk.render("gitalk-container");
+	    </script>]]></content>
   </entry>
 </search>
