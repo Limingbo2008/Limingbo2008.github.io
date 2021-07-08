@@ -6,7 +6,7 @@
   <link href="http://limingbo2008.github.io/atom.xml" rel="self"/>
   
   <link href="http://limingbo2008.github.io/"/>
-  <updated>2021-07-07T16:29:45.104Z</updated>
+  <updated>2021-07-08T15:55:49.929Z</updated>
   <id>http://limingbo2008.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习数学</title>
+    <link href="http://limingbo2008.github.io/2021/07/08/%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6/"/>
+    <id>http://limingbo2008.github.io/2021/07/08/%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6/</id>
+    <published>2021-07-08T05:11:50.000Z</published>
+    <updated>2021-07-08T15:55:49.929Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>“宇宙之大，粒子之微，火箭之速，化工之巧，地球之变，生物之谜，日月之繁，无处不用数学”。这句华罗庚先生的话，大家应该都听说过。我尝试简单学习一下微积分，但是资料浩瀚如烟，只是空乏，实在的却没有多少。尝试读读菲赫金哥尔茨的《微积分学教程》，内容特别基础，循序渐进，但我又没有大量精力学习（哈哈，与上一篇结构差不多），只得告一段落。</p><p>但是我发现一个很好的网站，叫数学乐： <a href="http://www.shuxuele.com/">www.shuxuele.com</a> ，封面图即是。这里面可见，这可谓一本数学工具书了：比如搜索平方，会给你定义等等。当你学习完之后，还可以做练习巩固，练习界面是英文的。它是由英文网站翻译而来，英文网站还有更多的东西。不只是数学，物理方面他们制作的也很好。这个网站经常使用一些工具辅助学习，比如在极限正式定义那里的动画演示。有一部分动画演示是用Flash制作的，电脑可以打开这种动画，手机如何打开参见上篇文章。</p><p>另外再说一下学习数学的一些注意。需要将错题或者不会的题牢固地记下来，不一定要写下来，但是最好是记到本上。上课认认真真，万不可分心，比如老师让计算一个方程或者让你思考问题，万不能坐在那发呆，一定要思考。我十分赞同我的数学老师说的那句话：“你今天偷的懒明天将会加倍偿还”。另外，记笔记可以让你不走神，书上本上都行。还要认真对待作业，把卷子整理好。</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="经验" scheme="http://limingbo2008.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+    <category term="数学" scheme="http://limingbo2008.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>自学俄语</title>
@@ -95,7 +119,7 @@
     <published>2021-01-02T11:02:32.000Z</published>
     <updated>2021-01-06T07:43:16.175Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2021年元旦，因为已经放了寒假，于是元旦这天决定给自己放一天假。下午在家闲来无事，突然想起建一个自己的博客（Blog）——是的，不是新浪博客也不是网易博客，一个自己建的博客。</p><p>这个想法已经存在了好久，因为源于一篇文章，链接：<a href="https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng">https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng</a>(最好在微信中复制打开）。但因为种种原因，没能实现，拖到2021年才做。</p><p>我于是就参考这篇文章，做了这个博客。当然，也遇到了不少困难，我多求助于Roy，也就是这篇文章的作者。其次，就是上百度找资料，Roy还给我了关于主题文档的资料，链接：<a href="https://butterfly.js.org/">https://butterfly.js.org</a>(第一次打开是繁体中文，若您不习惯，可以点右下角的齿轮，再点“繁”即可，“+”与“-”可以调节字体大小，“◐”可以切换至夜晚模式,“↑”可以回到顶部。同样，我的这篇“建站小记”也是如此）。</p><p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#108;&#x69;&#109;&#105;&#110;&#103;&#x62;&#111;&#x32;&#48;&#48;&#56;&#48;&#x36;&#x31;&#x39;&#64;&#115;&#x69;&#x6e;&#x61;&#46;&#x63;&#111;&#109;">&#108;&#x69;&#109;&#105;&#110;&#103;&#x62;&#111;&#x32;&#48;&#48;&#56;&#48;&#x36;&#x31;&#x39;&#64;&#115;&#x69;&#x6e;&#x61;&#46;&#x63;&#111;&#109;</a>）与我联系。</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2021年元旦，因为已经放了寒假，于是元旦这天决定给自己放一天假。下午在家闲来无事，突然想起建一个自己的博客（Blog）——是的，不是新浪博客也不是网易博客，一个自己建的博客。</p><p>这个想法已经存在了好久，因为源于一篇文章，链接：<a href="https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng">https://mp.weixin.qq.com/s/jVEv9jHV3WS5nAkVOmAcng</a>(最好在微信中复制打开）。但因为种种原因，没能实现，拖到2021年才做。</p><p>我于是就参考这篇文章，做了这个博客。当然，也遇到了不少困难，我多求助于Roy，也就是这篇文章的作者。其次，就是上百度找资料，Roy还给我了关于主题文档的资料，链接：<a href="https://butterfly.js.org/">https://butterfly.js.org</a>(第一次打开是繁体中文，若您不习惯，可以点右下角的齿轮，再点“繁”即可，“+”与“-”可以调节字体大小，“◐”可以切换至夜晚模式,“↑”可以回到顶部。同样，我的这篇“建站小记”也是如此）。</p><p>我以后若有时间，还会再填加一些功能，或是写一些文章。如果您也想建一个博客，请参考上面的文章，也可以通过邮件（<a href="mailto:&#108;&#105;&#109;&#105;&#110;&#x67;&#98;&#111;&#50;&#x30;&#x30;&#x38;&#48;&#54;&#49;&#57;&#x40;&#115;&#105;&#x6e;&#97;&#46;&#x63;&#x6f;&#x6d;">&#108;&#105;&#109;&#105;&#110;&#x67;&#98;&#111;&#50;&#x30;&#x30;&#x38;&#48;&#54;&#49;&#57;&#x40;&#115;&#105;&#x6e;&#97;&#46;&#x63;&#x6f;&#x6d;</a>）与我联系。</p><div id="gitalk-container"></div><script src="https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script><link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css"><script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script><script>var gitalkConfig = {"clientID":"c6a9f9dc6df0e79daa42","clientSecret":"69591e6ea182f9ec2f3944489c61ad309abfd091","repo":"Comment","owner":"Limingbo2008","admin":["Limingbo2008"],"distractionFreeMode":false};    gitalkConfig.id = md5(location.pathname);var gitalk = new Gitalk(gitalkConfig);    gitalk.render("gitalk-container");    </script>]]></content>
     
     
       
